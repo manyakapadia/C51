@@ -1,0 +1,25 @@
+h1{
+    color: brown;
+}
+
+.header{
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.gamesContainer{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color:#6BD0F5;
+}
+p,h2{
+    text-align:center;
+}
